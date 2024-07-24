@@ -9,7 +9,7 @@ const Navbar = () => {
                 <li className='font-semibold text-lg'>
                     <div>
                         <NavLink to='/'>                      
-                            <SparklesIcon className="w-6 h-6 text-slate-400"/>
+                            <SparklesIcon className="w-6 h-6 text-slate-300"/>
                         </NavLink>
                     </div>
                 </li>
