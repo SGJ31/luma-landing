@@ -1,7 +1,9 @@
+import Navbar from "../../Components/Navbar"
+
 function SignIn() {
     return (
-      <div className='bg-red-100'>
-        SignIn
+      <div>
+        <Navbar/>
       </div>
     )
   }
